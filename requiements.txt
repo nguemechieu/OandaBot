@@ -1,0 +1,7 @@
+pandas
+tkinkter
+sklearn
+sqlite3
+mathlib
+requests
+telegram
